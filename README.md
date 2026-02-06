@@ -1,4 +1,6 @@
 ﻿Air Quality Forecasting in Thailand using LSTM
+
+
 📖 Overview
 Air pollution is a critical environmental issue in Thailand, particularly during the "Smog Season" (December–April). This project utilizes Long Short-Term Memory (LSTM) networks—a type of Recurrent Neural Network (RNN)—to forecast PM2.5 levels based on historical air quality data.
 
@@ -54,3 +56,4 @@ Actual vs Predicted Graph
 Future Forecast Graph
 
 ![alt text](image-1.png)
+
